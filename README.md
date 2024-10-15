@@ -26,12 +26,6 @@ After cloning the repository, navigate to the folder where the project is saved:
 cd your-repository
 ```
 
-From here, install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 Finally, open Jupyter Notebook to view and use the materials:
 
 ```bash
