@@ -2,6 +2,7 @@
 
 ## Index
 -[Description](#description)
+
 -[Installation](#installation)
 
 ### Description 
@@ -32,3 +33,4 @@ Finally, open Jupyter Notebook to view and use the materials:
 jupyter notebook
 ```
 
+There's no need to install a requirements.txt file because all the libraries used are from python standard
