@@ -1,4 +1,4 @@
-# Algorithms and Data Structure
+# Algorithms and Data Structure ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Index
 -[Description](#description)
